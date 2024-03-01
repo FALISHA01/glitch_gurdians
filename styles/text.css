@@ -1,0 +1,51 @@
+p{
+  font-family: roboto;
+}
+.vedio-title{
+
+font-size: 18px;
+font-weight: bold;
+width: 300px;
+line-height: 24px;
+margin-bottom: 0;
+
+}
+.vedio-stats{
+
+margin-top: 0;
+font-size: 14px;
+line-height: 25px;
+color: rgb(96 96 96);
+margin-bottom: 0;
+
+}
+.vedio-author{
+
+color: rgb(96 96 96);
+font-size: 14px;
+margin-top: 10px;
+
+
+}
+.vedio-info{
+width: 280px;
+
+font-size: 14px;
+color: rgb(96 96 96);
+line-height:20px;
+
+}
+.apple-text{
+margin-top:150px;
+font-size: 14px;
+background-color: rgb(227,65,64);
+color: white;
+
+height: 10px;
+text-align: center;
+padding: 20px;
+}
+.underline:hover{
+text-decoration: underline;
+cursor: pointer;
+}
